@@ -1,0 +1,101 @@
+ciclo,codigo_modulo,nome_modulo,tipo_modulo,latencia_observada_ms,tensao_v,corrente_a,status,codigo_sensor,mensagem_alerta
+1,HAB,Habitacao,alto,86,5,1.08,normal,1001,Operacao normal
+1,AGR,Agricultura,alto,63,5,1.67,normal,1002,Operacao normal
+1,MED,Suporte medico,critico,52,24,3.22,normal,1003,Operacao normal
+1,COM,Comunicacao principal,critico,80,5,2.77,normal,1004,Operacao normal
+1,LAB,Laboratorio cientifico,normal,48,5,1.28,normal,1005,Operacao normal
+1,ENE,Energia,critico,60,24,2.81,normal,1006,Operacao normal
+1,VIDA,Suporte a vida,critico,81,5,3.15,normal,1007,Operacao normal
+1,MAN,Manutencao,alto,90,24,2.26,normal,1008,Operacao normal
+1,ARM,Armazenamento,normal,74,24,1.83,normal,1009,Operacao normal
+1,EXP,Exploracao,normal,46,5,3.09,normal,1010,Operacao normal
+2,CTL,Central de controle,critico,68,12,1.47,normal,1011,Operacao normal
+2,HAB,Habitacao,alto,68,5,1.28,normal,1012,Operacao normal
+2,AGR,Agricultura,alto,53,12,3.54,normal,1013,Operacao normal
+2,MED,Suporte medico,critico,85,12,3.42,normal,1014,Operacao normal
+2,COM,Comunicacao principal,critico,76,24,1.37,normal,1015,Operacao normal
+2,LAB,Laboratorio cientifico,normal,71,5,2.66,normal,1016,Operacao normal
+2,ENE,Energia,critico,87,24,3.66,normal,1017,Operacao normal
+2,VIDA,Suporte a vida,critico,70,24,1.58,normal,1018,Operacao normal
+2,MAN,Manutencao,alto,51,5,2.98,normal,1019,Operacao normal
+2,ARM,Armazenamento,normal,65,5,3.57,normal,1020,Operacao normal
+3,EXP,Exploracao,normal,54,12,1.83,normal,1021,Operacao normal
+3,CTL,Central de controle,critico,88,12,1.49,normal,1022,Operacao normal
+3,HAB,Habitacao,alto,70,5,3.01,normal,1023,Operacao normal
+3,AGR,Agricultura,alto,92,24,2.94,normal,1024,Operacao normal
+3,MED,Suporte medico,critico,86,24,1.51,normal,1025,Operacao normal
+3,COM,Comunicacao principal,critico,63,5,2.39,normal,1026,Operacao normal
+3,LAB,Laboratorio cientifico,normal,65,24,3.06,normal,1027,Operacao normal
+3,ENE,Energia,critico,62,24,1.97,normal,1028,Operacao normal
+3,VIDA,Suporte a vida,critico,51,5,3.47,normal,1029,Operacao normal
+3,MAN,Manutencao,alto,68,12,1.8,normal,1030,Operacao normal
+4,ARM,Armazenamento,normal,62,24,3.63,normal,1031,Operacao normal
+4,EXP,Exploracao,normal,69,5,2.97,normal,1032,Operacao normal
+4,CTL,Central de controle,critico,74,24,2.38,normal,1033,Operacao normal
+4,HAB,Habitacao,alto,65,5,1.74,normal,1034,Operacao normal
+4,AGR,Agricultura,alto,84,24,1.79,normal,1035,Operacao normal
+4,MED,Suporte medico,critico,86,12,3.69,normal,1036,Operacao normal
+4,COM,Comunicacao principal,critico,74,12,1.66,normal,1037,Operacao normal
+4,LAB,Laboratorio cientifico,normal,57,24,2.48,normal,1038,Operacao normal
+4,ENE,Energia,critico,52,5,1.46,normal,1039,Operacao normal
+4,VIDA,Suporte a vida,critico,59,24,2.27,normal,1040,Operacao normal
+5,MAN,Manutencao,alto,54,12,2.14,normal,1041,Operacao normal
+5,ARM,Armazenamento,normal,79,24,1.75,normal,1042,Operacao normal
+5,EXP,Exploracao,normal,85,5,3.04,normal,1043,Operacao normal
+5,CTL,Central de controle,critico,57,24,3.65,normal,1044,Operacao normal
+5,HAB,Habitacao,alto,67,24,2.02,normal,1045,Operacao normal
+5,AGR,Agricultura,alto,68,12,1.47,normal,1046,Operacao normal
+5,MED,Suporte medico,critico,50,24,3.63,normal,1047,Operacao normal
+5,COM,Comunicacao principal,critico,66,24,3.29,normal,1048,Operacao normal
+5,LAB,Laboratorio cientifico,normal,82,5,3.61,normal,1049,Operacao normal
+5,ENE,Energia,critico,69,24,2.52,normal,1050,Operacao normal
+6,VIDA,Suporte a vida,critico,63,5,2.12,normal,1051,Operacao normal
+6,MAN,Manutencao,alto,61,24,3.86,normal,1052,Operacao normal
+6,ARM,Armazenamento,normal,84,5,2.8,normal,1053,Operacao normal
+6,EXP,Exploracao,normal,82,5,1.34,normal,1054,Operacao normal
+6,CTL,Central de controle,critico,74,12,1.72,normal,1055,Operacao normal
+6,HAB,Habitacao,alto,66,24,3.84,normal,1056,Operacao normal
+6,AGR,Agricultura,alto,56,24,2.46,normal,1057,Operacao normal
+6,MED,Suporte medico,critico,55,24,3.3,normal,1058,Operacao normal
+6,COM,Comunicacao principal,critico,59,24,2.43,normal,1059,Operacao normal
+6,LAB,Laboratorio cientifico,normal,86,5,1.8,normal,1060,Operacao normal
+7,ENE,Energia,critico,90,12,3.89,normal,1061,Operacao normal
+7,VIDA,Suporte a vida,critico,86,24,3.07,normal,1062,Operacao normal
+7,MAN,Manutencao,alto,97,12,2.2,normal,1063,Operacao normal
+7,ARM,Armazenamento,normal,94,24,2.12,normal,1064,Operacao normal
+7,EXP,Exploracao,normal,85,12,1.36,normal,1065,Operacao normal
+7,CTL,Central de controle,critico,66,5,2.01,normal,1066,Operacao normal
+7,HAB,Habitacao,alto,89,24,1.69,normal,1067,Operacao normal
+7,AGR,Agricultura,alto,66,5,1.21,normal,1068,Operacao normal
+7,MED,Suporte medico,critico,92,5,1.69,normal,1069,Operacao normal
+7,COM,Comunicacao principal,critico,54,12,1.21,normal,1070,Operacao normal
+8,LAB,Laboratorio cientifico,normal,68,12,3.01,normal,1071,Operacao normal
+8,ENE,Energia,critico,66,24,1.4,normal,1072,Operacao normal
+8,VIDA,Suporte a vida,critico,89,24,2.42,normal,1073,Operacao normal
+8,MAN,Manutencao,alto,83,12,1.57,normal,1074,Operacao normal
+8,ARM,Armazenamento,normal,59,24,2.29,normal,1075,Operacao normal
+8,EXP,Exploracao,normal,180,12,2.4,lento,1076,Latencia elevada
+8,CTL,Central de controle,critico,132,24,2.96,lento,1077,Latencia elevada
+8,HAB,Habitacao,alto,138,5,2.21,lento,1078,Latencia elevada
+8,AGR,Agricultura,alto,169,5,1.75,lento,1079,Latencia elevada
+8,MED,Suporte medico,critico,150,24,2.35,lento,1080,Latencia elevada
+9,COM,Comunicacao principal,critico,182,5,1.84,lento,1081,Latencia elevada
+9,LAB,Laboratorio cientifico,normal,159,5,2.33,lento,1082,Latencia elevada
+9,ENE,Energia,critico,140,5,2.96,lento,1083,Latencia elevada
+9,VIDA,Suporte a vida,critico,129,5,3.78,lento,1084,Latencia elevada
+9,MAN,Manutencao,alto,158,5,2.22,lento,1085,Latencia elevada
+9,ARM,Armazenamento,normal,189,5,3.59,lento,1086,Latencia elevada
+9,EXP,Exploracao,normal,135,5,2.14,lento,1087,Latencia elevada
+9,CTL,Central de controle,critico,177,12,3.78,lento,1088,Latencia elevada
+9,HAB,Habitacao,alto,186,12,2.27,lento,1089,Latencia elevada
+9,AGR,Agricultura,alto,190,5,1.57,lento,1090,Latencia elevada
+10,MED,Suporte medico,critico,157,5,2.74,lento,1091,Latencia elevada
+10,COM,Comunicacao principal,critico,137,24,1.94,lento,1092,Latencia elevada
+10,LAB,Laboratorio cientifico,normal,136,24,2.43,lento,1093,Latencia elevada
+10,ENE,Energia,critico,150,5,3.88,lento,1094,Latencia elevada
+10,VIDA,Suporte a vida,critico,140,5,1.21,lento,1095,Latencia elevada
+10,MAN,Manutencao,alto,224,24,3.59,critico,1096,Falha critica detectada
+10,ARM,Armazenamento,normal,245,5,3.82,critico,1097,Falha critica detectada
+10,EXP,Exploracao,normal,256,5,2.74,critico,1098,Falha critica detectada
+10,CTL,Central de controle,critico,222,24,1.25,critico,1099,Falha critica detectada
+10,HAB,Habitacao,alto,262,24,2.7,critico,1100,Falha critica detectada
